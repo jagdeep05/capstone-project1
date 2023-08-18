@@ -1,0 +1,27 @@
+h2{
+    padding: 10px;
+    background-color: mediumpurple;
+}
+
+ a{
+   
+    color: black;
+ }
+ 
+ a{
+    background-color: aqua;
+    height: fit-content;
+    width: fit-content;
+ }
+
+ #footer-outside {
+    height: 80px;
+    width: fit-content;
+  }
+
+  #footer-inside{
+    background-color:#45a1ff ;
+      color: #fff;
+      padding: 20px;  }
+  
+
